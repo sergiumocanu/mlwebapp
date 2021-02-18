@@ -1,0 +1,43 @@
+Package: mlwebapp
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Sergiu Mocanu
+Maintainer: Sergiu Mocanu <smocanu@ryerson.ca>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+    limma
+Imports: 
+    shiny,
+    shinydashboard,
+    RBioFS,
+    RBioplot,
+    DT,
+    shinyjs,
+    shinyWidgets,
+    shinyalert,
+    shinyjqui,
+    shinybusy,
+    R.matlab,
+    plyr,
+    shinyBS,
+    sortable,
+    data.table,
+    pdftools,
+    rmarkdown,
+    zip,
+    htmlwidgets,
+    ggrepel,
+    RBioArray,
+    devtools,
+    BiocManager,
+    readr,
+    stringr,
+    limma,
+    foreach,
+    parallel
+RoxygenNote: 7.1.1
